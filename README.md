@@ -58,7 +58,6 @@ I'm a DevOps Engineer with hands-on experience in **cloud infrastructure**, **co
 ![Hetzner Cloud](https://img.shields.io/badge/Hetzner-DC0000?style=for-the-badge&logo=hetzner&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 **🐳 Containerization & Orchestration**
 <br>
@@ -71,6 +70,7 @@ I'm a DevOps Engineer with hands-on experience in **cloud infrastructure**, **co
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1868FF?style=for-the-badge&logo=vagrant&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 **🔄 CI/CD & Version Control**
 <br>
@@ -94,7 +94,7 @@ I'm a DevOps Engineer with hands-on experience in **cloud infrastructure**, **co
 <br>
 ![Tailscale](https://img.shields.io/badge/Tailscale-639CBE?style=for-the-badge&logo=tailscale&logoColor=white)
 ![SSL/TLS](https://img.shields.io/badge/SSL/TLS-0094F5?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS_(Cloudflare)-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![DNS](<https://img.shields.io/badge/DNS_(Cloudflare)-F38020?style=for-the-badge&logo=cloudflare&logoColor=white>)
 ![NetBird](https://img.shields.io/badge/NetBird-31384F?style=for-the-badge&logo=netbird&logoColor=white)
 
 </div>
@@ -115,6 +115,6 @@ _Coming soon..._
 
 <div align="center">
 
-### 💬 *"I build infrastructure so teams can focus on what matters — shipping great products."*
+### 💬 _"I build infrastructure so teams can focus on what matters — shipping great products."_
 
 </div>
